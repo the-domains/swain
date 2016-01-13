@@ -1,0 +1,28 @@
+name: swain
+favicon: null
+layout_spectrum: 0.058530704118311405
+typography_spectrum: 0.29048821865580976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9859954304993153
+  lightness: 0.12069521914236248
+  saturation: 0.49277337547391653
+  rhythmicContrast: 0.3711520484648645
+purpose: []
